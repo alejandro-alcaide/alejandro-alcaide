@@ -1,0 +1,11 @@
+{
+	"_comment_00" : "This file has 'path' and 'accounts' key. Notice the path needs to escape the reverse solidus (also called backslash)",
+	"path" : "C:\\Riot Games\\League of Legends\\LeagueClient.exe",
+	"accounts": [
+		{ "region": "EUW", "nickname": "Jon", "login" : "jonsnow123", "password" : "heIsNoCrow" },
+		{ "region": "LAN", "nickname": "Tyrion", "login" : "wildfire123", "password" : "JaimeIsMyFavBro"},
+		{ "region": "LAN", "nickname": "Jon", "login" : "jonsnow123", "password" : "heIsNoCrow"},
+		{ "region": "NA", "nickname": "Tyrion", "login" : "wildfire123", "password" : "JaimeIsMyFavBro"}
+		{ "region": "NA", "nickname": "Jon", "login" : "jonsnow123", "password" : "heIsNoCrow"},
+	]
+}
