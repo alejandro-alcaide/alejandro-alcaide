@@ -1,6 +1,6 @@
 # league-multi-account-auto-login
 
-Since I play a lot of League of Legends and I have multiple accounts spread through several servers, I figured an automated app would be fun to build. I also wanted to work a bit with JSON so my database is in such format.
+Playing League of Legends and having multiple accounts spread through several servers, I figured an automated app would be fun to build. I also wanted to work a bit with JSON so my database file is build using such format.
 
 Platform: Windows 10.
 
